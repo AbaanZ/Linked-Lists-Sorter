@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603308308 source:c:\mingw\x86_64-w64-mingw32\hw6\homework6\main.c
+	"stdio.h"
+	"stdlib.h"
+	"memory.h"
+
