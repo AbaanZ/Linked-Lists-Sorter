@@ -1,5 +1,3 @@
-//Abdurrehman Zulfiqar
-//ID:AXZ190015
 #include "stdio.h"
 #include "stdlib.h"
 #include "memory.h"
